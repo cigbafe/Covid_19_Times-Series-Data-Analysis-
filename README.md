@@ -1,1 +1,1 @@
-#  Conducted from a global perspective, and using times series dataset from Johns Hopkins University, the effort was to ascertain how covid_19 pandemic has evolved with countries around the world - to compare by visualisation the affected countries globally and regionally
+#  Conducted from a global perspective, using times series dataset from Johns Hopkins University, the effort was to ascertain how covid_19 pandemic has evolved with countries around the world - to compare via visualisation the affected countries globally and regionally
